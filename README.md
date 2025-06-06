@@ -1,4 +1,4 @@
-# ColorGame: Typing Speed Test
+# Typing Speed Test
 
 A simple typing speed and accuracy game built with Python's `tkinter` library. Type the displayed phrase correctly and quickly before time runs out! The faster and more accurate you are, the higher your score.
 
