@@ -18,13 +18,6 @@ A simple typing speed and accuracy game built with Python's `tkinter` library. T
 4. If the input matches the phrase, you earn 1 point.
 5. The game continues until the 120-second timer runs out.
 
-## Example Phrases
-
-- *I love my parents.*
-- *My cat is crazy.*
-- *Happy birthday to you!*
-- *I need to go to sleep.*
-
 > Note: Each correctly typed phrase is removed from the pool to avoid repetition.
 
 ## Prerequisites
